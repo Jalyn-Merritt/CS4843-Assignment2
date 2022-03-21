@@ -1,4 +1,4 @@
-# CC4843-Assignment2
+# CS4843-Assignment2
 
 Uploaded the necessary files for the infastructure to be created. These YAML files work as templates to be used in AWS's CloudFormation to aid in the creation of infastructure for a Instagram-like application. With the use of YAML files, JSON parameter files, and bash scripts, creating said infastructure can be accomplished in as easy as a couple of lines. For example, and to start, to create the network, all one would have to do is type the following in a terminal with the AWS CLI available:
 
