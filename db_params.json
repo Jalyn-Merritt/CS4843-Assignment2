@@ -1,0 +1,26 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "ScalableWebSRVProject"
+	},
+    {
+        "ParameterKey": "DBInId",
+        "ParameterValue": "mysqldb"
+    },
+    {
+        "ParameterKey": "DBNm",
+        "ParameterValue": "webSRVDB"
+    },
+    {
+        "ParameterKey": "DBUsr",
+        "ParameterValue": "Root"
+    },
+    {
+        "ParameterKey": "DBPass",
+        "ParameterValue": "password12345"
+    },
+    {
+        "ParameterKey": "DBStrg",
+        "ParameterValue": "20"
+    }
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "ScalableWebSRVProject"
+	},
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "KeyForServ"
+    },
+    {
+        "ParameterKey": "AMItoUse",
+        "ParameterValue": "ami-064ff912f78e3e561"
+    }
+]
