@@ -9,8 +9,8 @@ Uploaded the necessary files for the infastructure to be created. These YAML fil
 To form the rest, enter these into the comand line:
 
 ```sh
-> ./create.sh cloudapp-serv server_security.yml serv_params.json
-> ./create.sh cloudapp-data storage_database.yml db_params.json
+> ./create.sh cloudapp-serv serverNsecurity.yml serv_params.json
+> ./create.sh cloudapp-data storageNdatabase.yml db_params.json
 ```
 
 # Network
