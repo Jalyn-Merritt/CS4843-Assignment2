@@ -23,4 +23,4 @@ The server YAML template sets up an Autoscaling group and a Load Balancer. Some 
 
 # Database
 
-The storage YAML template deploys a RDS MySQL 8.0.27 database. The primary database is created in the first private subnet and has a seconday database created in the second private subnet. Should the accompanying parameter file be edited and errors occur, the storage YAML file details the constraints that need to be adhered for the database to form.
+The storage YAML template deploys a RDS MySQL 8.0.27 database. The primary database is created in the first private subnet and has a secondary database created in the second private subnet. Should the accompanying parameter file be edited and errors occur, the storage YAML file details the constraints that need to be adhered for the database to form.
